@@ -19,7 +19,7 @@
 
 **[Stepik_courses] - сохраняю пройденные курсы, сертификаты.**
 
-**[SQL] - Курс «Симулятор SQL» от Karpov.Courses(https://github.com/Vershinin-Artem/-SQL-Simulator---lab.karpov.courses)
+**SQL - [Курс «Симулятор SQL» от Karpov.Courses](https://github.com/Vershinin-Artem/-SQL-Simulator---lab.karpov.courses)
 
 **[DataCamp_projects] - проекты на Python, SQL.**
 
