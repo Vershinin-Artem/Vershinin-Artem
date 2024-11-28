@@ -19,9 +19,9 @@
 
 **[Stepik_courses] - сохраняю пройденные курсы, сертификаты.**
 
-**[Проекты на SQL](https://github.com/Vershinin-Artem/-SQL-Simulator---lab.karpov.courses)
+[Проекты на SQL](https://github.com/Vershinin-Artem/-SQL-Simulator---lab.karpov.courses)
 
-**[DataCamp_projects] - проекты на Python, SQL.**
+**[Проекты на Python](https://github.com/Vershinin-Artem/-Python-)**
 
 **[pet_projects] - pet-проекты.**
 
