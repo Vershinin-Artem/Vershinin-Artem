@@ -17,11 +17,8 @@
 -----------------------------
 Непосредственно репозитории с проектами
 
-**[Stepik_courses] - сохраняю пройденные курсы, сертификаты.**
 
-[Проекты на SQL](https://github.com/Vershinin-Artem/-SQL-Simulator---lab.karpov.courses)
+**[Решение заданий на SQL](https://github.com/Vershinin-Artem/-SQL-Simulator---lab.karpov.courses)**
 
-**[Проекты на Python](https://github.com/Vershinin-Artem/-Python-)**
-
-**[pet_projects] - pet-проекты.**
+**[Решение заданий на Python](https://github.com/Vershinin-Artem/-Python-)**
 
