@@ -15,7 +15,7 @@
 * язык запросов SQL [PostgreSQL](https://www.postgresql.org/));
 
 -----------------------------
-Непосредственно репозитории с проектами
+Репозитории с проектами и пройденными курсами
 
 
 **[Решение заданий на SQL](https://github.com/Vershinin-Artem/-SQL-Simulator---lab.karpov.courses)**
