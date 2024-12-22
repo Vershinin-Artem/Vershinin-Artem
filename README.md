@@ -22,3 +22,5 @@
 
 **[Решение заданий на Python](https://github.com/Vershinin-Artem/-Python-)**
 
+**[Статистика и A/B тесты](https://github.com/Vershinin-Artem/Stat_and_A-B)**
+
