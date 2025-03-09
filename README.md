@@ -12,7 +12,7 @@
 
 * среда программирования [Jupyter Notebook](https://jupyter.org/);
 
-* язык запросов SQL [PostgreSQL](https://www.postgresql.org/));
+* язык запросов SQL [PostgreSQL](https://www.postgresql.org/), MS SQL, Clickhouse
 
 -----------------------------
 Репозитории с проектами и пройденными курсами
