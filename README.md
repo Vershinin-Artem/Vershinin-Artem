@@ -23,4 +23,5 @@
 **[Решение заданий на Python](https://github.com/Vershinin-Artem/-Python-)**
 
 **[Статистика и A/B тесты](https://github.com/Vershinin-Artem/Stat_and_A-B)**
+**[Симулятор Аналитика](https://github.com/Vershinin-Artem/-Data_Analyst_Simulator)**
 
